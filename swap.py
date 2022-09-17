@@ -1,6 +1,5 @@
-a=5
-b=2
-
+a = int(input())
+b = int(input())
 a = a + b
 b = a - b
 a = a - b
